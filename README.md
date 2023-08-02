@@ -4,19 +4,11 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salihandic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salihandic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salihandic) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/salihandic) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salihandic&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salihandic&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salihandic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=salihandic&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Hi 👋, I'm Salih, I am a Frontend Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihandic&label=Profile%20views&color=0e75b6&style=flat" alt="salihandic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihandic" alt="salihandic" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=salihandic" alt="salihandic" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
