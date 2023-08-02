@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Salih, I am a Frontend Developer.
+## Hi 👋, I'm Salih, I am a Frontend Developer.
 
 
 ## 🌐 Socials:
